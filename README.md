@@ -2,6 +2,7 @@
 
 provide a new way to run yolo predict
 
+
 To improve the inference accuracy of YOLOv8, we can preprocess the images.
 The inference process consists of the following steps:
 1. Perform inference on the large image to get predicted bounding boxes.
@@ -24,5 +25,6 @@ contain the preprocess code for 2 tasks,one for detection the location and one f
 the 222.jpg is a sample image for test.
 
 ✨Please star this repository if it helps you✨
-
+        🚀 and please report issues🚀
+        
 If you have any questions, please contact me.
